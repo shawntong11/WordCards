@@ -2,6 +2,9 @@
 
 **A beautifully simple English vocabulary app — open your browser and start learning.**
 
+## Try It
+**[🌐 Try WordCards Online](https://your-username.github.io/wordcards/)**
+
 No sign-up. No install. No ads. Just words.
 
 ---
@@ -50,16 +53,13 @@ Sit back and let the cards play through automatically. Pause and resume any time
 **📊 Progress Bar**
 Click or drag to jump to any word instantly — works on both desktop and mobile.
 
----
 
-## Try It
-
-Simply open `index.html` in any modern browser. No setup required.
-
-Or visit the live version:
-**[🌐 Try WordCards Online](https://your-username.github.io/wordcards/)**
 
 ---
+
+## Support
+
+If you find WordCards useful, please consider giving it a ⭐ on GitHub — it means a lot and helps others discover it!
 
 ## Built With
 
